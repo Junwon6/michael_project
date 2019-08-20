@@ -1,0 +1,42 @@
+.App {
+    background-color: #fafafa;
+    margin: 0;
+    text-align: center;
+}
+
+.Menu {
+    text-align: center;
+    z-index: 100;
+}
+
+.MenuButton {
+    background-color: white;
+    margin-bottom: 0px;
+
+    display: inline-block;
+    min-width: 150px;
+    min-height: 25px;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    box-shadow: 0px -3px 3px #cdcdcd;
+}
+
+.WhiteSpace {
+    margin: 10px;
+    min-height: 70px;
+}
+
+.Contents {
+    display: inline-block;
+
+    background-color: white;
+
+    min-width: 500px;
+    min-height: 500px;
+
+    box-shadow: 0px 1px 4px #cdcdcd;
+
+    text-align: center;
+}
